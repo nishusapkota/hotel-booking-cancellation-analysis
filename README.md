@@ -18,4 +18,4 @@ The objective of this project is to analyze hotel booking data to identify key p
 - Pivot table creation according to the questions asked.
 - merge all pivot table into one dashboard and apply slicer to make dynamic.
 ## Dashboard
-![Hotel Booking Cancellation.pdf](https://github.com/nishusapkota/hotel-booking-cancellation-analysis/blob/main/Hotel%20Booking%20Cancellation.pdf)
+[📄 View the Dashboard PDF](https://github.com/nishusapkota/hotel-booking-cancellation-analysis/blob/main/Hotel%20Booking%20Cancellation.pdf)
