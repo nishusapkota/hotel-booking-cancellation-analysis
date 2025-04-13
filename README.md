@@ -19,3 +19,13 @@ The objective of this project is to analyze hotel booking data to identify key p
 - merge all pivot table into one dashboard and apply slicer to make dynamic.
 ## Dashboard
 [📄 View the Dashboard PDF](https://github.com/nishusapkota/hotel-booking-cancellation-analysis/blob/main/Hotel%20Booking%20Cancellation.pdf)
+## Project Insights
+- Around 37% of total bookings were cancelled, highlighting a high cancellation rate.
+- Couples had the highest number of bookings and cancellations.
+- Family guests showed the lowest cancellation rate, indicating more reliable bookings.
+- City Hotels see more cancellations than Resort Hotels.
+- August and September showed peak cancellations, pointing to seasonal patterns.
+- Year-wise filtering enabled deeper insights into trends over 2015–2017.
+## Final Conclusion
+This project provided valuable insights into hotel booking cancellations using Excel-based data analysis and interactive dashboards. By transforming raw data through calculated columns and pivot tables, we identified key trends such as higher cancellation rates among couples and city hotels, the impact of room assignment on booking outcomes, and strong seasonal patterns in cancellation behavior. The findings highlight the importance of guest satisfaction and operational accuracy in minimizing cancellations. Overall, this analysis can help hotel managers make more informed decisions to improve booking reliability and enhance customer experience.
+
