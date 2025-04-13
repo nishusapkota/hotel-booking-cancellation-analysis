@@ -1,2 +1,3 @@
-# hotel-booking-cancellation-analysis
-I developed a comprehensive project in Excel involving multiple dashboards and pivot tables to analyze hotel booking cancellations. The project included key stages such as data cleaning, processing (using conditional logic to create custom columns), and data visualization.
+# Hotel-Booking-Cancellation-Analysis (Interactive Dashboard creation using MS Excel)
+## Project Objective
+The objective of this project is to analyze hotel booking data to identify key patterns and factors influencing booking cancellations.
